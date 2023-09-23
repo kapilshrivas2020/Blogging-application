@@ -47,6 +47,6 @@ public class SwaggerConfig {
 	}
 	
 	private ApiInfo getInfo() {
-		return new ApiInfo("Blogging Application", "This product is developed by Kapil Shrivas", "1.0", "Kapil Shrivas", ApiInfo.DEFAULT_CONTACT, "License of Api", "LICENCE", Collections.emptyList());
+		return new ApiInfo("Blogging Application ", "This product is developed by Kapil Shrivas", "1.0", "Kapil Shrivas", ApiInfo.DEFAULT_CONTACT, "License of Api", "LICENCE", Collections.emptyList());
 	}
 }
